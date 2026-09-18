@@ -52,4 +52,3 @@ void mostrarResultados(int estado, int a, int b) {
         cout << a << " es igual que " << b << endl;
     }
 }
-
